@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="6" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-18T14:30:02 IST" name="Default suite" finished-at="2022-11-18T14:31:48 IST" duration-ms="105748">
+    <groups>
+    </groups>
+    <test started-at="2022-11-18T14:30:02 IST" name="Default test" finished-at="2022-11-18T14:31:48 IST" duration-ms="105748">
+      <class name="com.testNGflip.FlipkartTestNG">
+        <test-method signature="browserLaunch()[pri:1, instance:com.testNGflip.FlipkartTestNG@4d02f94e]" started-at="2022-11-18T14:30:02 IST" name="browserLaunch" finished-at="2022-11-18T14:31:28 IST" duration-ms="85530" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method signature="dismissPopup()[pri:2, instance:com.testNGflip.FlipkartTestNG@4d02f94e]" started-at="2022-11-18T14:31:28 IST" name="dismissPopup" finished-at="2022-11-18T14:31:33 IST" duration-ms="4516" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dismissPopup -->
+        <test-method signature="searchProduct()[pri:3, instance:com.testNGflip.FlipkartTestNG@4d02f94e]" started-at="2022-11-18T14:31:33 IST" name="searchProduct" finished-at="2022-11-18T14:31:34 IST" duration-ms="1072" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProduct -->
+        <test-method signature="clickSearchButton()[pri:4, instance:com.testNGflip.FlipkartTestNG@4d02f94e]" started-at="2022-11-18T14:31:34 IST" name="clickSearchButton" finished-at="2022-11-18T14:31:34 IST" duration-ms="403" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickSearchButton -->
+        <test-method signature="getTextOfProducts()[pri:5, instance:com.testNGflip.FlipkartTestNG@4d02f94e]" started-at="2022-11-18T14:31:34 IST" name="getTextOfProducts" finished-at="2022-11-18T14:31:48 IST" duration-ms="14114" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTextOfProducts -->
+      </class> <!-- com.testNGflip.FlipkartTestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="60.813">
+    <testcase classname="Ecommerce Application" name="Home Page" time="60.469">
+        <system-out><![CDATA[Given user Launch The Application...........................................passed
+When user Enter The "iphone 14 pro max" In Search Box.......................passed
+And user Click The Required Product.........................................passed
+Then user Get The Screenshot Of The Current Page............................passed
+]]></system-out>
+    </testcase>
+</testsuite>
